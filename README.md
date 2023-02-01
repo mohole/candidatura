@@ -3,7 +3,7 @@
 Il test ha lo scopo di valutare le tue capacità di **sfruttare la documentazione presente online** e di osservare lo **stile di scrittura e la pulizia del codice** e dei commenti.
 
 **UTILIZZA LE PULL REQUESTS** per inviare il tuo lavoro che verrà visionato e se necessario discusso durante un successivo colloquio.  
-Dopo aver svolto l'esercizio puoi completare la candidatura inviando il tuo CV (ricordandoti di specificare il tuo username github). Per ulteriori informazioni leggi con attenzione le istruzioni nell'annuncio che trovi al seguente link:
+Dopo aver svolto l'esercizio puoi completare la candidatura inviando il tuo CV (ricordandoti di specificare il tuo username github). Per ulteriori informazioni leggi con attenzione le istruzioni nell'annuncio che trovi al seguente link: [Sviluppatore web junior](https://www.linkedin.com/jobs/view/3459299181)
 
 ## Introduzione:
 La Terra di Mezzo ha visto passare molti eroi che si sono alleati o combattuti durante le Ere. In particolare durante la Terza Era si svolsero gli avvenimenti che riguardano la Compagnia dell'Anello. Molti personaggi devono essere rappresentati in un sito web costruito con WordPress.
